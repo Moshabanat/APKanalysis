@@ -15,9 +15,9 @@ The script is capable of doing the following:
 Requirements :
 
 
-Python 2.7 
-Strings.exe from Microsoft sysinternals placed in C:\
-Virustotal API or remove the function 
+1. Python 2.7 
+2. Strings.exe from Microsoft sysinternals placed in C:\
+3. Virustotal API or remove the function 
 
 Packages:
 pip install AxmlParserPY
