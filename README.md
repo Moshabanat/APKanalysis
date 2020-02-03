@@ -20,8 +20,8 @@ Requirements :
 3. Virustotal API or remove the function 
 
 Packages:
-pip install AxmlParserPY
-pip install requests
+1. pip install AxmlParserPY
+2. pip install requests
 
 Command Example:
 
