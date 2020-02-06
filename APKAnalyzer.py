@@ -227,7 +227,7 @@ def print_permission():
 
 def upload_file(filename):
     baseurl = "https://www.virustotal.com/vtapi/v2/"
-    api = "58ec42ab8f17acd21d6f6d8c6b3bb0041dd87b375bdca9c8c1a437b023d470de"
+    api = "******************Enter your VT API HERE****************"
 
     url = baseurl + "file/scan"
     f = open(filename, "rb")
